@@ -1,0 +1,1 @@
+ssh -t lai@10.212.129.244 "bash -i cd_ugnn_data.sh"
